@@ -56,12 +56,18 @@
 
 ## 🏆 Competitive Programming  
 <ul>
-  <li> 🎯 <b>LeetCode:</b> <a href="https://leetcode.com/u/LailaWaleed/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
-  </a></li>
-  <li> 💡 <b>Codeforces:</b> <a href="https://codeforces.com/profile/Laila_18">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white">
-  </a></li>
+  <li style="display: flex; align-items: center;">
+    🎯 <b>LeetCode:</b> 
+    <a href="https://leetcode.com/u/LailaWaleed/" style="margin-left: 5px;">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white">
+    </a>
+  </li>
+  <li style="display: flex; align-items: center;">
+    💡 <b>Codeforces:</b> 
+    <a href="https://codeforces.com/profile/Laila_18" style="margin-left: 5px;">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white">
+    </a>
+  </li>
 </ul>
 
 ---
