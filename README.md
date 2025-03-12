@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-profile-id" width="150" height="150" alt="Laila Waleed" style="border-radius: 50%;"/>
   <h1>🌸 Hi, I'm Laila Waleed! 🌸</h1>
 </div>
 
