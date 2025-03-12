@@ -72,8 +72,6 @@
 [![Laila's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lailawaleed&theme=github-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)  
 
 ---
-
-
 <!--## 📌 Pinned Repositories  
 <p align="center">
   <a href="https://github.com/lailawaleed/your-repo-1">
@@ -84,7 +82,6 @@
   </a>
 </p>
 -->
----
 
 ## ✨ Quote  
 > "Code is like humor. When you have to explain it, it’s bad." – Cory House  
