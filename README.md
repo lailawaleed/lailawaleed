@@ -55,8 +55,9 @@
 ---
 
 ## 🏆 Competitive Programming  
-🎯 LeetCode:[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LailaWaleed/)  
-💡 Codeforces:[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Laila_18)  
+- 🎯 **LeetCode**: [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/LailaWaleed/)  
+- 💡 **Codeforces**: [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Laila_18)  
+
 
 ---
 
