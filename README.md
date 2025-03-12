@@ -44,7 +44,7 @@
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=lailawaleed&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lailawaleed&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lailawaleed&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages)
+
 ---
 
 
