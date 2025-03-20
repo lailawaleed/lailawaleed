@@ -10,7 +10,6 @@
 - 💻 Passionate about *Backend Development, Data Structures & Algorithms*  
 - 🌱 Currently learning *ASP.NET Core*  
 - ⚡ Always eager to learn new technologies, design patterns, and best coding practices
-- 💡 **Fun Fact:** **I solve at least 1 coding problem daily!**  
 
 ---
 
