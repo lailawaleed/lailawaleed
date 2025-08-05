@@ -1,6 +1,6 @@
 <div align="center">
   <h1>🌸 Hi, I'm Laila Waleed! 🌸</h1>
-  <p>🎓 Computer Science Student | 💡 Problem Solver</p>
+  <p>🎓 Senior Computer Science Student | 💡 Problem Solver</p>
 </div>
 
 ---
